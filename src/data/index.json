@@ -1,0 +1,43 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/binary.png",
+      "title": "Back-End",
+      "description": "Specializing in languages like Java, c++, Python and frameworks such as Django, adept at implementing solutions to support scalable and efficient applications"
+    },
+    {
+      "id": "2",
+      "src": "./img/cloud.png",
+      "title": "Cloud",
+      "description": "Proficient in cloud services, particularly AWS, with experience in deploying, managing, and optimizing cloud-based solutions for enhanced scalability, reliability, and cost-effectiveness."
+    },
+    {
+      "id": "3",
+      "src": "./img/code.png",
+      "title": "Front-End",
+      "description": "Continuously expanding my front-end knowledge to deliver engaging web applications that meet user needs and enhance overall user experience while creating dynamic and responsive user interfaces."
+    },
+    {
+      "id": "4",
+      "src": "./img/speaker_64.png",
+      "title": "Agile Development",
+      "description": "Experienced Scrum Master with a proven track record of facilitating Agile methodologies and guiding cross-functional teams through successful project lifecycles."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "Diamond Data: A React + Django Baseball Matchup Analyzer",
+      "description": "Utilizing a Python + Django backend in conjunction with a React frontend, this application scrapes a website to obtain pitching matchups, then compares statistics, and highlights a favorable matchup",
+      "link": "https://github.com/mlans27/Baseball",
+      "desc": "View In Github"
+    },
+    {
+      "id": "2",
+      "title": "This Website",
+      "description": "Made with React, this website uses HTML, CSS, and Javascript to do everything you are currently seeing.",
+      "desc": "You're already here, no need for a link"
+    }
+  ]
+}
